@@ -1,0 +1,14 @@
+﻿  BG.cpp
+  Foe.cpp
+  GameCore.cpp
+C:\Users\victo\Desktop\GEORGE MASON\CLASSES\GAME 140\My2DDungeon\My2DDungeon\GameCore.cpp(17,21): warning C4018: '<': signed/unsigned mismatch
+  HUD.cpp
+C:\Users\victo\Desktop\GEORGE MASON\CLASSES\GAME 140\My2DDungeon\My2DDungeon\HUD.cpp(16,29): warning C4018: '<': signed/unsigned mismatch
+  Hero.cpp
+  Item.cpp
+  RoomRenderer.cpp
+  Sprite.cpp
+  main.cpp
+  Generating Code...
+  My2DDungeon.vcxproj -> C:\Users\victo\Desktop\GEORGE MASON\CLASSES\GAME 140\My2DDungeon\Debug\My2DDungeon.exe
+  0 File(s) copied
